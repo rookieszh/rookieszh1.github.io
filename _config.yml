@@ -12,7 +12,7 @@ github_repo: "https://github.com/rookieszh?tab=repositories" # you code reposito
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: ""
-sidebar-avatar: /img/avartar-by.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avarter-by.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
