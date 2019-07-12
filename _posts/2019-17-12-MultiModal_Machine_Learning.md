@@ -1,7 +1,7 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      ReadingNote——Multimodal Machine Learning : A Survey and Taxonomy               # 标题
-subtitle:    #副标题
+title:      ReadingNote               # 标题
+subtitle:   Multimodal Machine Learning : A Survey and Taxonomy #副标题
 date:       2019-07-12              # 时间
 author:     ROOKIE                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
