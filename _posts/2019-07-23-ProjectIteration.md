@@ -14,7 +14,7 @@ tags:                               #标签
 ##### 1. 瀑布模型（Waterfall Model）式开发
 > 开发过程是将软件生存周期的各项活动规定为按固定顺序而连接的若干阶段性工作。<br>从系统需求分析开始直到产品发布和维护，每个阶段都会产生循环反馈，因此，如果有信息未被覆盖或者发现了问题，那么最好 “返回”上一个阶段并进行适当的修改。<br>项目开发进程从一个阶段“流动”到下一个阶段，这也是瀑布模型名称的由来。
 
-![](ProjectIteration_1.jpg)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_1.jpg?raw=true)
 
 **特点**
 * 最典型的预见性方法。
@@ -38,7 +38,7 @@ tags:                               #标签
 ##### 2. 迭代式开发
 > 迭代式开发也被称作**迭代增量式开发**或**迭代进化式开发**，是一种与传统的瀑布式开发相反的软件开发过程。是一种每次只设计和实现产品的一部分, 逐步逐步完成的方法。它弥补了传统开发方式中的一些弱点，具有更高的成功率和生产率。
 
-![](ProjectIteration_2.gif)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_2.gif?raw=true)
 
 **特点**
 * 在进行大规模的投资之前就解决了关键的风险分析。
@@ -59,7 +59,7 @@ tags:                               #标签
 ##### 3. 螺旋式开发
 > 将瀑布模型和快速原型模型结合起来，强调了其他模型所忽视的风险分析，特别适合于大型复杂的系统。<br>以进化的开发方式为中心，在每个项目阶段使用瀑布模型法。每一个周期都包括需求定义、风险分析、工程实现和评审4个阶段，由这4个阶段进行迭代。软件开发过程每迭代一次，软件开发又前进一个层次。
 
-![](ProjectIteration_3.jpg)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_3.jpg?raw=true)
 
 **特点**
 * 在早期就能够为客户实证某些概念。
@@ -117,28 +117,28 @@ tags:                               #标签
 
 > **燃尽图 Burndown Chart** 在项目某一迭代周期完成之前，对需要完成的工作的一种可视化表示，标注着计划走向和实际走向。常以图表展示随着时间的减少工作量的剩余情况。工作量一般以竖轴展示，时间一般以横轴展示。
 > + 对于预测何时完成工作很有用，经常被用于敏捷开发中。燃尽图也可以用于任何可测量的进度随着时间变化的项目。
-+ ![](ProjectIteration_4.jpg)
++ ![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_4.jpg?raw=true)
 
 ##### <font color="#dd0000">理想团队工作燃尽图</font>
-![](ProjectIteration_5.jpg)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_5.jpg?raw=true)
 
 ##### <font color="#dd0000">还不错团队工作燃尽图</font>
-![](ProjectIteration_6.jpg)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_6.jpg?raw=true)
 
 ##### <font color="#dd0000">一般般团队工作燃尽图</font>
-![](ProjectIteration_7.jpg)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_7.jpg?raw=true)
 
 ##### <font color="#dd0000">“太迟啦”工作燃尽图</font>
-![](ProjectIteration_8.jpg)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_8.jpg?raw=true)
 
 ##### <font color="#dd0000">“太快啦”工作燃尽图</font>
-![](ProjectIteration_9.jpg)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_9.jpg?raw=true)
 
 ##### <font color="#dd0000">“管理层要来了”工作燃尽图</font>
-![](ProjectIteration_10.jpg)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_10.jpg?raw=true)
 
 ##### <font color="#dd0000">“成功之母”工作燃尽图</font>
-![](ProjectIteration_11.jpg)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_11.jpg?raw=true)
 
 > **迭代周期**
 > + 一次迭代的周期为1~4周，根据项目的实际情况而定，按计划以最快速度完成需求。
@@ -154,4 +154,4 @@ tags:                               #标签
 > + 能反映综合盈利能力，但缺乏全局观念。
 > + 往往具有时效性。
 
-![](ProjectIteration_12.jpg)
+![](https://github.com/rookieszh/rookieszh.github.io/blob/master/img/ProjectIteration/ProjectIteration_12.jpg?raw=true)
